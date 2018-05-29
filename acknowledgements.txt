@@ -1,0 +1,13 @@
+Image carousel source:
+https://github.com/Elitewares/CSS3-Slider
+
+Space shooter image:
+http://computerblog247.com/wp-content/uploads/2013/07/space-shoter.jpg
+
+Mario image:
+https://nerdist.com/wp-content/uploads/2014/10/SuperMarioWorld-970x545.jpg
+
+Langton's ant image:
+http://sprott.physics.wisc.edu/chaos/langton.gif
+
+This is for a class assignment for demonstration purposes only.
